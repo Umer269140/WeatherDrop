@@ -8,3 +8,7 @@ HTML, CSS, JavaScript, openweathermap for weather fetching.
 
 ## how it works
 This is a single page based platform where users can search the city in the search bar to check its current weather. The Weather is fetched from openweathermap through its api. After searching the city, when the results will appear, user can click the 5 days temperature button to get the temperature for the next 5 days along with the icon like sun or cloud etc. The temperature is the forecast at 18:00 of every day.
+
+## How to use it
+It is very easy to use the platform, user can simply search any city in the search bar and click the search icon, results will appear. Users can click 5 day button on the top left to get the results of nex5 days. The results includes temperature at each day at 18:00:00 along with the icon of sun or cloud or rain indicating th temp. Here is the link: https://weatherdrop.umer-pc.hackclub.app/
+
