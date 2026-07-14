@@ -6,6 +6,10 @@ WeatherDrop is a web based platform where users can check the weather of any cit
 ## Tech Stack
 HTML, CSS, JavaScript, openweathermap for weather fetching.
 
+
+## AI USE
+Most of the AI use in the project was on debugging.
+
 ## how it works
 This is a single page based platform where users can search the city in the search bar to check its current weather. The Weather is fetched from openweathermap through its api. After searching the city, when the results will appear, user can click the 5 days temperature button to get the temperature for the next 5 days along with the icon like sun or cloud etc. The temperature is the forecast at 18:00 of every day.
 
